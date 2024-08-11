@@ -1,3 +1,8 @@
+INFINITE TIC-TAC-TOE - Experience the classic game like never before with Infinite Tic-Tac-Toe mode. Choose between head-to-head mode or playing against an adaptive AI that adjusts its difficulty based on the player's skill level. Say goodbye to endless draws and embrace a fresh and engaging challenge every time.
+
+<img width="680" alt="Screenshot 2024-08-11 at 5 59 53 PM" src="https://github.com/user-attachments/assets/11443c31-1d3a-4ce4-83a8-7d9c2cf6072a">
+
+
 Three-in-One Tic-Tac-Toe Game
 Description
 The Three-in-One Tic-Tac-Toe Game offers a unique and engaging experience with a trio of Tic-Tac-Toe themed games in a single box. Designed for 1-4 players, this game is perfect for family game nights, gatherings with friends, or solo challenges. It combines classic gameplay with innovative twists, making it suitable for players of all ages.
